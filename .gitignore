@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Vodní inženýr - uložený postup hráče a obrázky z overeni.py
+postup.json
+overeni_obrazky/
